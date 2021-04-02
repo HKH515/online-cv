@@ -111,7 +111,7 @@ projects:
       
       - title: brownbear2polarbear
         link: https://github.com/HKH515/brownbear2polarbear
-        tagline: ML project which attempts a style transfer using GANs to mape a picture of a brown bear to a polar bear
+        tagline: ML project which attempts an Image-to-image translation using GANs to transform a picture of a brown bear to a polar bear
     
 
       - title: Floating point to decimal number converter
