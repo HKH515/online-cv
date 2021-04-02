@@ -108,6 +108,11 @@ projects:
       - title: MovieTrailerML
         link: "https://github.com/HKH515/MovieTrailerML"
         tagline: ML project which analyses frames in a movies trailer, and tries to determine the genre of the movie
+      
+      - title: brownbear2polarbear
+        link: https://github.com/HKH515/brownbear2polarbear
+        tagline: ML project which attempts a style transfer using GANs to mape a picture of a brown bear to a polar bear
+    
 
       - title: Floating point to decimal number converter
         link: "https://github.com/HKH515/float-conv"
