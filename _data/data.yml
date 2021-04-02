@@ -103,7 +103,7 @@ projects:
     assignments:
       - title: Markov-improv
         link: "https://markov-improv.herokuapp.com/"
-        tagline: Standup routine generator, based on a comics actual standup routine, using a markov chain
+        tagline: Standup one-liner generator, trained on actual standup routine transcripts from standup-comics, can use either a natural language processing model or a markov chain
 
       - title: MovieTrailerML
         link: "https://github.com/HKH515/MovieTrailerML"
