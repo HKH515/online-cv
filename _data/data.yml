@@ -105,6 +105,10 @@ projects:
         link: "https://markov-improv.herokuapp.com/"
         tagline: Standup routine generator, based on a comics actual standup routine, using a markov chain
 
+      - title: MovieTrailerML
+        link: "https://github.com/HKH515/MovieTrailerML"
+        tagline: ML project which analyses frames in a movies trailer, and tries to determine the genre of the movie
+
       - title: Floating point to decimal number converter
         link: "https://github.com/HKH515/float-conv"
         tagline: "Converts IEEE 754 numbers to human readable fractions"
