@@ -35,17 +35,15 @@ sidebar:
       - item: Competitive Programming
         link: https://open.kattis.com
 
+      - item: Web programming
+        link:
+
+      - item: Data science
+        link:
+
       - item: Machine Learning
         link: https://en.wikipedia.org/wiki/Machine_learning
 
-      - item: Generative Adverserial Networks
-        link: https://en.wikipedia.org/wiki/Generative_adversarial_network
-
-      - item: Image-to-image transfer
-        link:
-
-      - item: Style transfer
-        link:
 #career-profile:
 #    title: Career Profile
 #    summary: |
@@ -60,7 +58,7 @@ sidebar:
 education:
     - degree: MSc in Computer Science
       university: Reykjavík University
-      time: 2018 - 2020
+      time: 2018 - 2021
       details: |
             Notable courses taken
             - Data mining and Machine learning
@@ -83,7 +81,7 @@ experiences:
       time: 2016 - Present
       company: Reykjavík University, Iceland
       details: |
-          Over the course of my Undergrand and Graduate studies, I TA'd in a number of courses.
+          Over the course of my Undergrand and Graduate studies, I have TA'd in a number of courses.
 
           Courses
           - Computer architecture
@@ -101,6 +99,10 @@ projects:
     title: Projects
     intro: >
     assignments:
+      - title: Markov-improv
+        link: "https://markov-improv.herokuapp.com/"
+        tagline: Standup routine generator, based on a comics actual standup routine, using a markov chain
+
       - title: Floating point to decimal number converter
         link: "https://github.com/HKH515/float-conv"
         tagline: "Converts IEEE 754 numbers to human readable fractions"
@@ -122,14 +124,17 @@ skills:
       - name: Python
         level: 95%
 
-      - name: Keras
-        level: 80%
+      - name: Linux
+        level: 75%
 
       - name: Javascript + React
         level: 75%
 
+      - name: Keras
+        level: 50%
+
       - name: C++
-        level: 70%
+        level: 60%
 
       - name: HTML5 & CSS
         level: 55%
