@@ -60,6 +60,8 @@ education:
       university: Reykjavík University
       time: 2018 - 2021
       details: |
+            My thesis is on a validation of an automatic sleep spindle detector using EEG data.
+
             Notable courses taken
             - Data mining and Machine learning
             - Deep learning
